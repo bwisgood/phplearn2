@@ -1,0 +1,4 @@
+<?php 
+require_once("D:/php/test02/common.func.php");
+	alertMes("123","index.php");
+?>

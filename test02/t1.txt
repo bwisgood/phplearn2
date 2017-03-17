@@ -1,0 +1,7 @@
+<?PHP 
+echo "<script language=\"JavaScript\">\r\n"; 
+echo "alert(\"你好\");\r\n"; 
+echo "location.replace(\"http://www.jb51.net/\");\r\n"; 
+echo "</script>"; 
+exit; 
+?>
